@@ -1,0 +1,22 @@
+.div4{
+       
+    background-color: rgb(95, 92, 92);
+    width: 300px;
+    padding-left: 15px;
+     padding-right: 15px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+
+
+}
+.text{
+     margin-top: 5px;
+     font-size: 25px;
+     font-weight: bold;
+     color: white;
+
+}
+.sub{
+    color: rgb(200, 188, 188);
+
+}
