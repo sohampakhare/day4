@@ -1,0 +1,13 @@
+.grid{
+
+    display: grid;
+    grid-template-columns: 200px 75px;
+
+}
+
+.div1{
+    background-color: rgb(44, 142, 203);
+}
+.div2{
+    background-color: palevioletred;
+}
