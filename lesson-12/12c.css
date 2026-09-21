@@ -1,0 +1,12 @@
+.grid{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.div1{
+    background-color: rgb(44, 142, 203);
+   
+}
