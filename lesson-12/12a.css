@@ -1,0 +1,15 @@
+.grid{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.div1{
+    background-color: rgb(44, 142, 203);
+    width: 200px;
+}
+.div2{
+    background-color: palevioletred;
+    width: 75;
+}
